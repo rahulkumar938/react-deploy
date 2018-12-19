@@ -1,0 +1,29 @@
+{
+<<<<<<< HEAD
+  "main.css": "/react-deploy/static/css/main.c71e86b7.chunk.css",
+  "main.js": "/react-deploy/static/js/main.84e973e8.chunk.js",
+  "main.js.map": "/react-deploy/static/js/main.84e973e8.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "/react-deploy/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "/react-deploy/static/js/1.82dafdb5.chunk.js.map",
+  "runtime~main.js": "/react-deploy/static/js/runtime~main.00539649.js",
+  "runtime~main.js.map": "/react-deploy/static/js/runtime~main.00539649.js.map",
+  "static/media/logo.svg": "/react-deploy/static/media/logo.5d5d9eef.svg",
+  "static/css/main.c71e86b7.chunk.css.map": "/react-deploy/static/css/main.c71e86b7.chunk.css.map",
+  "index.html": "/react-deploy/index.html",
+  "precache-manifest.34a868c4b10d85210fda0c8d1febc860.js": "/react-deploy/precache-manifest.34a868c4b10d85210fda0c8d1febc860.js",
+  "service-worker.js": "/react-deploy/service-worker.js"
+=======
+  "main.css": "/rahulkumar938/react-stock/static/css/main.c71e86b7.chunk.css",
+  "main.js": "/rahulkumar938/react-stock/static/js/main.af9bd32e.chunk.js",
+  "main.js.map": "/rahulkumar938/react-stock/static/js/main.af9bd32e.chunk.js.map",
+  "static/js/1.82dafdb5.chunk.js": "/rahulkumar938/react-stock/static/js/1.82dafdb5.chunk.js",
+  "static/js/1.82dafdb5.chunk.js.map": "/rahulkumar938/react-stock/static/js/1.82dafdb5.chunk.js.map",
+  "runtime~main.js": "/rahulkumar938/react-stock/static/js/runtime~main.7a0fabd5.js",
+  "runtime~main.js.map": "/rahulkumar938/react-stock/static/js/runtime~main.7a0fabd5.js.map",
+  "static/media/logo.svg": "/rahulkumar938/react-stock/static/media/logo.5d5d9eef.svg",
+  "static/css/main.c71e86b7.chunk.css.map": "/rahulkumar938/react-stock/static/css/main.c71e86b7.chunk.css.map",
+  "index.html": "/rahulkumar938/react-stock/index.html",
+  "precache-manifest.b03d3d6416eb4448f0f869527edbca11.js": "/rahulkumar938/react-stock/precache-manifest.b03d3d6416eb4448f0f869527edbca11.js",
+  "service-worker.js": "/rahulkumar938/react-stock/service-worker.js"
+>>>>>>> 01c3ff2a4df54c886fe666333d0489a43a23b73c
+}
